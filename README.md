@@ -41,5 +41,5 @@ lshw -C network
 ```
 the command should return something like this:
 
-![lshw -C network](https://imgur.com/AzAVPBx)
+![Imgur](https://i.imgur.com/AzAVPBx.png)
 
