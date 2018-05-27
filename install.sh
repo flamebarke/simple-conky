@@ -1,2 +1,1 @@
-sudo cp conkyrc ~/.conkyrc-test
-
+sudo cp ~/simple-conky/conkyrc ~/.conkyrc-test
